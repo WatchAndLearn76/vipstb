@@ -1,0 +1,22 @@
+{
+    "port": 5000,
+    "portals": [
+        {
+            "id": "1776373953",
+            "url": "http://prm.worldip.nl/c",
+            "mac": "00:1A:79:CD:21:0E",
+            "types": [
+                "itv"
+            ],
+            "filter_cats": {
+                "itv": [
+                    "1000418",
+                    "1000803",
+                    "1000899"
+                ],
+                "video": [],
+                "series": []
+            }
+        }
+    ]
+}
